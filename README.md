@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Natnael Abebe
 
-🎓 I am a **3rd Year Information Systems student** at **Bahir Dar University**, Faculty of Computing.  
+🎓 I am a **3rd Year Information Systems student** at **Bahir Dar University**,BIT Campus.  
 💻 I am an **aspiring Software Developer** with strong interest in building structured, reliable, and maintainable software systems.
 
 ---
